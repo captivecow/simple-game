@@ -10,7 +10,11 @@
     "tauri": "tauri"
   },
   "devDependencies": {
+    "@biomejs/biome": "2.2.4",
     "@tauri-apps/cli": "^2",
     "vite": "^7.1.7"
+  },
+  "dependencies": {
+    "pixi.js": "^8.13.2"
   }
 }
